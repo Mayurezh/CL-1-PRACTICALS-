@@ -43,11 +43,5 @@ Here are a few sample outputs from the notebooks:
 
 ---
 
-## 🧑‍💻 Author
-
-**Vedant Dhamale**
-
-- GitHub: [VedantDhamale](https://github.com/VedantDhamale)
-
 ---
 
