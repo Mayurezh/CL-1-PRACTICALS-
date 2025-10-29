@@ -16,18 +16,7 @@ This repository contains solutions to the practical exercises for the **Data Vis
 
 ## ⚙️ Setup Instructions
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/VedantDhamale/SPPU_DVM_PRACTICALS-.git
-   cd SPPU_DVM_PRACTICALS-
-   ```
-2. **Create a Virtual Environment** (Optional but recommended):
-   ```bash
-   python -m venv dvm_env
-   source dvm_env/bin/activate   # On Windows: dvm_env\Scripts\activate
-   ```
-
-3. **Run the Notebooks**:
+**Run the Notebooks**:
    Open the desired practical file in Jupyter Notebook or Google Colab and execute the cells.
 
 ---
